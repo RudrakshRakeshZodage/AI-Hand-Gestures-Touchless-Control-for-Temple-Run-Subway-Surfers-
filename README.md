@@ -12,6 +12,7 @@ I recently built a futuristic gesture-control system using Python, OpenCV, Media
 ✅ Live feedback with gesture labels and a transparent UI overlay
 ✅ Supports both Temple Run & Subway Surfers for a next-gen gaming experience
 
+
 🎮 Just move your hand:
 
 ☝️ Index Finger = Jump
@@ -22,8 +23,10 @@ I recently built a futuristic gesture-control system using Python, OpenCV, Media
 
 🤛 Index + Thumb + Middle = Turn Right
 
+
 🔧 Stack Used:
 Python | OpenCV | MediaPipe | PyAutoGUI | matplotlib
+
 
 📌 Use Cases Beyond Gaming:
 
@@ -35,8 +38,9 @@ AR/VR gesture controls
 
 Robotics + automation inputs
 
-📽️ Demo coming soon on YouTube! (Drop your channel link)
-🧠 Curious about the code? (Optional GitHub link)
+
+📽️ Demo coming soon on YouTube! 
+
 
 Let me know what futuristic project YOU would connect this to! 🚀👇
 
